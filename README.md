@@ -19,3 +19,7 @@ Key Features of CreArtive AI:
 7.) User Interaction and Community: CreArtive AI fosters a community of artists, art lovers, collectors, and innovators. Users can engage in discussions, share insights, and collaborate on AI art projects, creating a supportive and interactive environment.
 
 CreArtive AI leverages cutting-edge technologies to provide a seamless and engaging experience for users. Whether accessed through a web browser, smartphone, tablet, or desktop computer, CreArtive AI invites art creators, collectors, and enthusiasts to discover, create, and embrace the future of art powered by artificial intelligence.
+
+![CreArtive AI](https://github.com/ImmortalFireKing/CreArtiveAI/assets/149437730/c832f14d-7bb4-4421-a7ae-876700b390dd)
+![edit1](https://github.com/ImmortalFireKing/CreArtiveAI/assets/149437730/0f2420f3-8c15-418b-bf92-3554b6dd570b)
+![edit2](https://github.com/ImmortalFireKing/CreArtiveAI/assets/149437730/d8e73901-b232-4a41-bf32-04c37b19d89d)
